@@ -22,9 +22,6 @@ Bisa langsung ketik teks, atau upload file dari HP kamu.
 | Baca tulisan dari gambar | Google ML Kit | Offline |
 | Terjemahan | MyMemory API | Online |
 
-> Untuk fitur terjemahan, HP perlu terhubung ke internet.
-> Untuk baca gambar (OCR), bisa digunakan tanpa internet.
-
 ---
 
 ## Cara Pakai
@@ -64,3 +61,14 @@ lib/
 ├── translator_service.dart      -> Koneksi ke API terjemahan
 └── file_extractor_service.dart  -> Proses baca TXT, PDF, dan gambar
 ```
+---
+
+## App overview
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5ba0e196-c5d4-4f9c-9e9d-840db13b6983" width="250"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/3f5032cc-81a4-40bd-a8e9-cebe631d9c90" width="250"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/68488b17-c79c-4716-9e0e-db52ff5c5826" width="250"/>
+</div>
+
