@@ -1,4 +1,4 @@
-# English to Indonesian Translator App
+# Words and Files Translator App (English to Indonesian only)
 
 Aplikasi mobile sederhana untuk menerjemahkan teks bahasa Inggris ke bahasa Indonesia.
 Bisa langsung ketik teks, atau upload file dari HP kamu.
